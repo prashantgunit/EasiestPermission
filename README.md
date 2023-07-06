@@ -55,7 +55,7 @@ Now create a callback
 
     }
 
-Override onRequestPermissionsResult onfuntion like this
+Override onRequestPermissionsResult function like this
 
        override fun onRequestPermissionsResult(
         requestCode: Int,
